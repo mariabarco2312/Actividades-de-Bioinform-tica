@@ -1,2 +1,2 @@
-# Actividades-de-Bioinformatica
-Actividades realizadas durante el curso
+# Actividades-de-Bioinformática
+María Barco García 150874
