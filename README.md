@@ -1,2 +1,2 @@
-# Actividades-de-Bioinform-tica
+# Actividades-de-Bioinformatica
 Actividades realizadas durante el curso
